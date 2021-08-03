@@ -1,0 +1,15 @@
+.taskStyle {
+  border: 2px solid #dee2e6;
+  border-radius: 15px;
+  padding: 10px 10px;
+}
+
+.btn-danger {
+  margin-right: 10px;
+}
+
+.invalid-task {
+  color: red;
+  border-color: red;
+}
+/*# sourceMappingURL=styles.css.map */
